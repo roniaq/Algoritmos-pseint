@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo RaizCuadrada
 	Definir a Como Entero
 	Definir resul Como Real
 	a<-4;
